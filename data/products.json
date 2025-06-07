@@ -1,0 +1,79 @@
+[
+  {
+    "type": "product",
+    "name": "Яблоки",
+    "price": 150,
+    "needs_weighing": true,
+    "stock": 100
+  },
+  {
+    "type": "product",
+    "name": "Картофель",
+    "price": 40,
+    "needs_weighing": true,
+    "stock": 150
+  },
+  {
+    "type": "product",
+    "name": "Говядина",
+    "price": 800,
+    "needs_weighing": true,
+    "stock": 120
+  },
+  {
+    "type": "product",
+    "name": "Сахар",
+    "price": 60,
+    "needs_weighing": true,
+    "stock": 70
+  },
+  {
+    "type": "product",
+    "name": "Бананы",
+    "price": 170,
+    "needs_weighing": true,
+    "stock": 60
+  },
+  {
+    "type": "product",
+    "name": "Шоколад",
+    "price": 120,
+    "needs_weighing": false,
+    "stock": 200
+  },
+  {
+    "type": "product",
+    "name": "Чипсы",
+    "price": 180,
+    "needs_weighing": false,
+    "stock": 300
+  },
+  {
+    "type": "product",
+    "name": "Молоко",
+    "price": 90,
+    "needs_weighing": false,
+    "stock": 120
+  },
+  {
+    "type": "product",
+    "name": "Хлеб",
+    "price": 50,
+    "needs_weighing": false,
+    "stock": 230
+  },
+  {
+    "type": "product",
+    "name": "Макароны",
+    "price": 60,
+    "needs_weighing": false,
+    "stock": 160
+  },
+  {
+    "type": "product",
+    "name": "Масло",
+    "price": 250,
+    "needs_weighing": false,
+    "stock": 70
+  }
+]
